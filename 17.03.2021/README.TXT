@@ -5,6 +5,7 @@ https://www.greenfoot.org/download
 Official Documentation:
 https://www.greenfoot.org/doc
 Once you have installed Greenfoot, download this repo and run the project.gfar file
+You may have to recompile the code & reset if you pause, as Greenfoot is not that great.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Simple Java Greenfoot Game
