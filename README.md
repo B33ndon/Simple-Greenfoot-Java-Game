@@ -15,7 +15,7 @@ Once you have installed Greenfoot, download this repo and run the project.gfar f
 You may have to recompile the code & reset if you pause, as Greenfoot is not that great.
 
 
-#PROJECT TITLE: Simple Java Greenfoot Game
+\n PROJECT TITLE: Simple Java Greenfoot Game
 #PURPOSE OF PROJECT: Hone my Java and Game Dev Skills
 #VERSION or DATE: V1.0 / 17/03/2021
 #HOW TO START THIS PROJECT: Refer to thesis.
