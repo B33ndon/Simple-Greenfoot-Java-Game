@@ -5,10 +5,10 @@ A Greenfoot Java editor game.
 ## Thesis;
 This project requires you to run it inside of the Greenfoot Editor.
 
-Download link:
+Greenfoot Download link:
 https://www.greenfoot.org/download
 
-Official Documentation:
+Official Greenfoot Documentation:
 https://www.greenfoot.org/doc
 
 Once you have installed Greenfoot, download this repo and run the project.gfar file
