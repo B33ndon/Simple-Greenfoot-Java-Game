@@ -1,16 +1,12 @@
 ------------------------------------------------------------------------
-This project requires you to run it inside of the Greenfoot Editor.
-Download link:
-https://www.greenfoot.org/download
-Official Documentation:
-https://www.greenfoot.org/doc
-Once you have installed Greenfoot, download this repo and run the project.gfar file
-You may have to recompile the code & reset if you pause, as Greenfoot is not that great.
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Simple Java Greenfoot Game
-PURPOSE OF PROJECT: Hone my Java and Game Dev Skills
-VERSION or DATE: V1.0 / 17/03/2021
-HOW TO START THIS PROJECT: Refer to thesis.
-AUTHORS: Brendan Price
-USER INSTRUCTIONS: Refer to thesis.
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
